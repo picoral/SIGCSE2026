@@ -1,0 +1,35 @@
+---
+title: "Code Reading Instruction"
+subtitle: "Essential in the Age of Generative AI"
+author: "<em>Adriana Picoral</em> </br>University of Minnesota"
+format:
+  revealjs:
+    slide-number: true
+    incremental: false
+    toc: false
+    embed-resources: true
+    chalkboard: false
+    footer: "SIGCSE TS 2026 -- <a href=\"../index.html\">go back to home page</a>"
+    logo: umn_logo.png
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+
