@@ -10,7 +10,7 @@ provide a way to fix the issue.
 5          return 'word is' + words[25]
 6    
 7    for w in words:
-8       result = 10 * w
+8       result += 10 * w
 9    return result
 ```
 
