@@ -9,18 +9,22 @@ def foo(structure):
     return result
 ```
 
-For each input below either indicate it would crash, or if it would run to completion, write out what would be printed. (if there are multiple possible correct printings, for example because dictionaries and sets are unordered, give one possible printed output)
+For each input below either indicate it would crash, or if it would run to completion, write out what the output would be. (if there are multiple possible correct outputs, for example because dictionaries and sets are unordered, give one possible output)
 
 # A
 
 ```
 fruit={"apple": 10, "pear": 30, "kiwi", 0}
-foo(fruit)
+print(foo(fruit))
 ```
 
 # B
 
 ```
 var= ["one", "two", "three"]
-foo(var)
+print(foo(var))
 ```
+
+Rubric:
+- [ ] +1 A runs, output is `"10 30 0"` 
+- [ ] +1 B throws an error 

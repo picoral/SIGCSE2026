@@ -32,3 +32,8 @@ public static int doSomethingThree(int a, int b, int out) {
   else return doSomethingThree(a+1, b-1, out);
 }
 ```
+
+Rubric:
+- [ ] +1 checked option A
+- [ ] +1 checked option B
+- [ ]  0 checked option C

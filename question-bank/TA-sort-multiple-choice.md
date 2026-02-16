@@ -23,7 +23,7 @@ algorithm has which property!)
 - [ ] Selection Sort
 - [ ] None of the above
 
-1. `[4, 3, 2, 1, 5, 6, 7, 8]`
+2. `[4, 3, 2, 1, 5, 6, 7, 8]`
 
 - [ ] Bubble Sort
 - [ ] Insertion Sort
@@ -31,9 +31,14 @@ algorithm has which property!)
 - [ ] None of the above
 
   
-1. `[4, 5, 6, 7, 8, 3, 2, 1]`
+3. `[4, 5, 6, 8, 7, 3, 2, 1]`
 
 - [ ] Bubble Sort
 - [ ] Insertion Sort
 - [ ] Selection Sort
 - [ ] None of the above
+
+Rubric:
+- [ ] +1 question 1 is Selection Sort
+- [ ] +1 question 2 is Bubble Sort
+- [ ] +1 question 3 is Insertion Sort

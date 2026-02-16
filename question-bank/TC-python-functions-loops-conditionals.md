@@ -32,3 +32,7 @@ In the space below, indicate what this would print. For credit your answer must 
 * Do not worry about newlines or whitespace, only letters would be printed
 * The question is case sensitive, lowercase letters will not be correct.
 
+Rubric:
+- [ ] +1 for `"NOOE"` 
+
+
